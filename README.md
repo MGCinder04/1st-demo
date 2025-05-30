@@ -18,4 +18,4 @@ This is my first Git repository as I begin learning version control with Git and
 ## Author
 
 **Mohit Gupta**  
-[Your GitHub Profile](https://github.com/MGCinder04)
+[My GitHub Profile](https://github.com/MGCinder04)
