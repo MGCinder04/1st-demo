@@ -1,5 +1,5 @@
-# 1st-demo
-Author - Mohit <br>
+# My First Git Repository
+
 This is my first Git repository as I begin learning version control with Git and GitHub. The purpose of this project is to practice basic Git commands, understand version history, and explore collaboration workflows.
 
 ## What I've Learned So Far
@@ -14,3 +14,8 @@ This is my first Git repository as I begin learning version control with Git and
 - Branching and merging
 - Collaborating using GitHub
 - Exploring more advanced Git workflows
+
+## Author
+
+**Mohit Gupta**  
+[Your GitHub Profile](https://github.com/MGCinder04)
